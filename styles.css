@@ -1,0 +1,53 @@
+
+    body {
+
+      background-color: white;
+
+    }
+
+    hr {
+
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width:5px;
+    width: 4%;
+
+
+    }
+
+    ol {
+      background-color: #5a3d55;
+      border-style: groove;
+    }
+
+    img {
+      border-top: 40px;
+      height: 500px;
+      width: 30%;
+    }
+
+    h1 {
+      color: blue;
+      margin-left: 4;
+
+    }
+
+    .bill {
+      color: green;
+      margin-left: 4;
+
+    }
+
+    .bill:hover{
+      color: blue
+    }
+
+    .yo{
+      color: purple;
+    }
+
+    .new:hover{
+      border-style: groove;
+      height: 60px;
+    }
